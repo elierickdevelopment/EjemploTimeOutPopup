@@ -37,7 +37,9 @@
         <div>        <h3 id='CuentaAtras' style="color: black">
     </h3>
             <asp:Button ID="Button1" runat="server" Text="Prueba" />
-        </div>
+            <br />
+            <br />
+            50$</div>
     </form>
 </body>
 </html>
