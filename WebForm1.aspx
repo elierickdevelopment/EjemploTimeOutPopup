@@ -39,7 +39,8 @@
             <asp:Button ID="Button1" runat="server" Text="Prueba" />
             <br />
             <br />
-            50$</div>
+            50$<br />
+            +20$</div>
     </form>
 </body>
 </html>
